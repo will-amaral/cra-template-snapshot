@@ -1,0 +1,34 @@
+{
+  "name": "cra-template-snapshot",
+  "author": {
+    "name": "Will Amaral",
+    "email": "will@amaral.io",
+    "url": "https://will.amaral.io"
+  },
+  "version": "1.0.0",
+  "description": "A simple Snapshot + Routes template for CRA",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "snapshot",
+    "react-router",
+    "static generation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/will-amaral/cra-template-snapshot.git"
+  },
+  "main": "template.json",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/reduxjs/cra-template-redux/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

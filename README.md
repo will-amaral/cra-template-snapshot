@@ -23,7 +23,7 @@ Using this template you get:
 
 ## Alternatives
 
-If your application needs complex static exporting, you might want to look at [Gatsby]https://www.gatsbyjs.org/)
+If your application needs complex static exporting, you might want to look at [Gatsby](https://www.gatsbyjs.org/)
 
 ## License
 

@@ -1,6 +1,6 @@
 # cra-template-snapshot
 
-[![npm version](https://img.shields.io/npm/v/cra-template-snapshot)](https://www.npmjs.com/package/cra-template-redux)
+[![npm version](https://img.shields.io/npm/v/cra-template-snapshot)](https://www.npmjs.com/package/cra-template-snapshot)
 
 A simple Snapshot + Routes template for [Create React App](https://github.com/facebook/create-react-app)
 

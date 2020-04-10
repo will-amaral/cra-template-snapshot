@@ -5,7 +5,7 @@
     "email": "will@amaral.io",
     "url": "https://will.amaral.io"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Snapshot + Routes template for CRA",
   "keywords": [
     "react",

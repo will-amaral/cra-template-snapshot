@@ -21,6 +21,7 @@ Using this template you get:
 - Routing
 - Out-of-the box sass and scss support
 - Static exporting on build.
+- Simple type-checking for your components with prop-types. (For advanced features, you might consider switching to TypeScript)
 - Gh-pages deployment (To serve your files on Github, you may have to configure your gh-pages branch. Check [Github Pages](https://pages.github.com/) for more information)
 
 ## Alternatives
